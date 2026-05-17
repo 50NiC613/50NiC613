@@ -66,23 +66,6 @@ I am a **Computer Science Engineer** and **Full Stack Developer** focused on bui
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=toddyuliandev&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toddyuliandev&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 ### 🤝 Connect With Me
 
 Whether you want to talk about Jamstack architectures, graph databases, serverless setups, or ricing your Linux environment, let's get in touch!
